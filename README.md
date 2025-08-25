@@ -1,8 +1,8 @@
-## Hi im Alyssa 👋
+<h1 align="center> Hi! im Alyssa Lima</h1>
 
-<div align="center">
-  <img height="150" src="https://media.discordapp.net/attachments/909092181313212416/1409549734380699708/57C6BF7F-876D-4AA5-9B1B-77169CCFBCE3.png?ex=68adc8fc&is=68ac777c&hm=e574ed57c16f4c5284cadf60acac8f53364d2b5f431f2ceb7d57df938c065761&=&format=webp&quality=lossless&width=816&height=544"  />
-</div>
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/909092181313212416/1409549734380699708/57C6BF7F-876D-4AA5-9B1B-77169CCFBCE3.png?ex=68adc8fc&is=68ac777c&hm=e574ed57c16f4c5284cadf60acac8f53364d2b5f431f2ceb7d57df938c065761&=&format=webp&quality=lossless&width=816&height=544"  />
+</p>
 
 ###
 
