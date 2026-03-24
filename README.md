@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/3bf897d5-410f-4bae-8db5-41ab0b3271b7" height="40" alt="css logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://github.com/user-attachments/assets/8c3b7a36-8b76-4800-b938-e23b908948a2" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
