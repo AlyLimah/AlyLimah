@@ -40,7 +40,7 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/fb7833fb-555e-452d-8224-5d16c166f66b" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/5f4b51a3-0d89-4279-a65b-829fbd2a5228" height="40" alt="html logo" />
+  <img src="https://github.com/user-attachments/assets/ceec609f-3cac-4a35-8c0e-1e119b637ee8" height="40" alt="html logo" />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/3bf897d5-410f-4bae-8db5-41ab0b3271b7" height="40" alt="css logo" />
   <img width="12" />
