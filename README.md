@@ -37,7 +37,8 @@
 ###
 
 <div align="left">
-  <img src="https://img.favpng.com/11/14/24/java-logo-png-favpng-cgKUdGHe2QthiPdp2jvAcTKGX.jpg" height="40" alt="go logo"  />
+ <img width="12" />
+ <img src="https://github.com/user-attachments/assets/fb7833fb-555e-452d-8224-5d16c166f66b" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" alt="rust logo"  />
   <img width="12" />
