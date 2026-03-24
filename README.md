@@ -37,7 +37,7 @@
 ###
 
 <div align="left">
-  <img src="https://e7.pngegg.com/pngimages/123/816/png-clipart-computer-icons-java-%E5%92%96%E5%95%A1%E6%B5%B7%E6%8A%A5%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90-miscellaneous-text.png" height="40" alt="go logo"  />
+  <img src="https://img.favpng.com/11/14/24/java-logo-png-favpng-cgKUdGHe2QthiPdp2jvAcTKGX.jpg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" alt="rust logo"  />
   <img width="12" />
