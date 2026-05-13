@@ -10,14 +10,6 @@
 <div align="center">
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alylimah.alylimah&"  />
-</div>
-
-###
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -26,10 +18,9 @@
 
 ###
 
-<p align="left">I'm a 20 year old computer science student from Brazil <br><br>- 🔭 I’m working as front-end developer<br>- 📚 I'm currently learning java backend <br>- ⚡ looking for front-end job! </p>
+<p align="left">I'm a 20 year old computer science student from Brazil <br><br>- 🔭 I’m working as front-end developer<br>- 📚 I'm currently learning UI/UX<br>- ⚡ looking for front-end job! </p>
 
 ###
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -60,7 +51,7 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-### 
 
+ <a href="#" >connect with me</a><br><br>
+<a href="https://www.linkedin.com/in/alyssa-limac" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 
-###
