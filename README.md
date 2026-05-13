@@ -1,20 +1,20 @@
 <h1 align="center"> Hi! im Alyssa Lima</h1>
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/909092181313212416/1409549734380699708/57C6BF7F-876D-4AA5-9B1B-77169CCFBCE3.png?ex=68adc8fc&is=68ac777c&hm=e574ed57c16f4c5284cadf60acac8f53364d2b5f431f2ceb7d57df938c065761&=&format=webp&quality=lossless&width=816&height=544"/>
+<img width="2400" height="448" alt="Gemini_Generated_Image_rjw2zhrjw2zhrjw2" src="https://github.com/user-attachments/assets/cc716e1e-0d9d-459f-af59-14208a66fad5" />
+
 </p>
 
 ###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alylimah.alylimah&"  />
 </div>
 
 ###
@@ -23,6 +23,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
+<hr>
 
 <p align="center">
 
@@ -57,7 +58,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=alylimah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
