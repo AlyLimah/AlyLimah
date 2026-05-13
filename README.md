@@ -1,14 +1,13 @@
-<h1 align="center"> Hi! im Alyssa Lima</h1>
+<h1 align="center"> Hi! I'm Alyssa Lima <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 45px>  </a> <br/>
+</h1>  
 
 <p align="center">
 <img width="2400" height="448" alt="Gemini_Generated_Image_rjw2zhrjw2zhrjw2" src="https://github.com/user-attachments/assets/cc716e1e-0d9d-459f-af59-14208a66fad5" />
-
 </p>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
 
 ###
@@ -19,11 +18,9 @@
 
 ###
 
-
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <h3 align="left">👩‍💻  About Me</h3>
-<hr>
 
 <p align="center">
 
@@ -32,6 +29,7 @@
 <p align="left">I'm a 20 year old computer science student from Brazil <br><br>- 🔭 I’m working as front-end developer<br>- 📚 I'm currently learning java backend <br>- ⚡ looking for front-end job! </p>
 
 ###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -60,5 +58,9 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alylimah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+### 
+
 
 ###
