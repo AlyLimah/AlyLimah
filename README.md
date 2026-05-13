@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm a 20 year old computer science student from Brazil <br><br>- 🔭 I’m working as front-end developer<br>- 📚 I'm currently learning UI/UX<br>- ⚡ looking for front-end job! </p>
+<p align="left">I'm a 20 year old computer science student from Brazil <br><br>- 🔭 I’m working as front-end developer<br>- 📚 I'm currently learning UI/UX<br>- ⚡ looking for front-end job!<br> - 🌎 I speak portuguese and english </p>
 
 ###
 
