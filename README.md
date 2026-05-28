@@ -30,6 +30,8 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/fb7833fb-555e-452d-8224-5d16c166f66b" height="40" alt="java logo" />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/5132d22e-81e5-46f9-bd92-c3376c08b6dd" height="40" alt="python logo" />
+  <img width="12">
   <img src="https://github.com/user-attachments/assets/ceec609f-3cac-4a35-8c0e-1e119b637ee8" height="40" alt="html logo" />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/3bf897d5-410f-4bae-8db5-41ab0b3271b7" height="40" alt="css logo" />
@@ -38,6 +40,8 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/a4dbd4c5-69af-4f09-96df-f6053288c6bd" height="40" alt="postgresql logo" />
   <img width="12" />
+
+
 </div>
 
 ###
