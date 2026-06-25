@@ -5,6 +5,10 @@
 <img width="2400" height="448" alt="Gemini_Generated_Image_rjw2zhrjw2zhrjw2" src="https://github.com/user-attachments/assets/cc716e1e-0d9d-459f-af59-14208a66fad5" />
 </p>
 
+<p align="center">
+  <a href="mailto:alyssaclima@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alyssa-limac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
 ###
 
 <div align="center">
