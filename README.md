@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm a 20 year old computer science student from Brazil <br><br>- 🔭 I’m working as front-end developer <br>- 📚 I'm currently studying react <br>- ⚡ looking for front-end/data analyst/deskhelper job!<br> - 🌎 I speak portuguese and english </p>
+<p align="left">I'm a 20 year old computer science student from Brazil <br><br>- 🔭 I’m working as front-end developer <br>- 📚 I'm currently studying react <br>- ⚡ looking for front-end job!<br> - 🌎 I speak portuguese and english, currently learning russian </p>
 
 ###
 
